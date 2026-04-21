@@ -1,4 +1,5 @@
 🕒 Analog Clock Project
+[view the clock] (https://digitalclockap2026.netlify.app/)
 
 A beautiful real-time analog clock built using HTML, CSS, and JavaScript.
 The clock displays animated second and minute rings with a modern dark UI design.
